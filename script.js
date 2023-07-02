@@ -35,5 +35,5 @@ function calculateMinCost() {
   }
   
   // Display the minimum cost in the result div
-  document.getElementById("result").textContent = "Minimum cost of ropes: " + totalCost;
+  document.getElementById("result").textContent = totalCost;
 }
